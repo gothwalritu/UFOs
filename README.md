@@ -14,19 +14,19 @@ With this exercise I was able to learn more about the ES6+ version of JavaScript
 
 The JavaScript code was assembled to build a functional table with the ability to filter the data. However, a HTML page is required to test and showcase it. Hence, I created the following web page in HTML/CSS. I also added Bootstrap component to enhance its aesthetics.
 
-![Picture_1]([link](https://github.com/gothwalritu/UFOs/blob/main/screenShots/2022-09-04.png))
+![Picture_1](https://github.com/gothwalritu/UFOs/blob/main/screenShots/2022-09-04.png)
 
 **•	The Initials looks of the table and the search bars**
 
 I used the different ids which were created in the app.js to use it as search parameters. I added “Date”, “City”, “State”, “Country”, and “Shape” as search filters with some place holders in the search bars. Initially the table is fully loaded as shown below.
 
-![Picture_2]([link](https://github.com/gothwalritu/UFOs/blob/main/screenShots/2022-09-04%20(1).png))
+![Picture_2](https://github.com/gothwalritu/UFOs/blob/main/screenShots/2022-09-04%20(1).png)
 
 **•	The Filtered results**
 
 When I enter any relevant parameter in the in the search bar the table is filtered automatically as it is noticing the change in the search bars and shows us the results pertaining to that search parameter. For example, if I want to see the results for the UFO sightings whose shape is a circle then I get the following results.
 
-![Picture_3]([link](https://github.com/gothwalritu/UFOs/blob/main/screenShots/2022-09-04%20(2).png))
+![Picture_3](https://github.com/gothwalritu/UFOs/blob/main/screenShots/2022-09-04%20(2).png)
 
 ## Summary: 
 
